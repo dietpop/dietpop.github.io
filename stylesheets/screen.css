@@ -212,7 +212,7 @@ div#no-downloads span.inner {
   position: relative;
   height: 197px;
   width: 550px;
-  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
+  background: transparent url(https://cloud.githubusercontent.com/assets/3495428/5622199/225312f2-9505-11e4-85ee-63b347e4f1e6.png) 0 0 no-repeat;
 }
 
 section#downloads a {
@@ -221,7 +221,7 @@ section#downloads a {
   height: 67px;
   width: 275px;
   padding-top: 130px;
-  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
+  background: transparent url(https://cloud.githubusercontent.com/assets/3495428/5622199/225312f2-9505-11e4-85ee-63b347e4f1e6.png) 0 0 no-repeat;
   text-align: center;
   line-height: 1;
   color: #fff;
