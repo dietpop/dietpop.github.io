@@ -570,8 +570,8 @@ dd p:first-child {
 
 #contact-links li
 {
-margin: 0em, 5em;
-padding: 0;
+margin: 0;
+padding: 0em 5em 0em 0em;
 list-style-type: none;
 }
 
