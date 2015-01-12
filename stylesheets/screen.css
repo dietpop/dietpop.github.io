@@ -568,12 +568,14 @@ dd p:first-child {
   font-style: italic;
 }
 
-#contact-links ul li
+#contact-links ul
 {
-font-size: 1.45em;  
 margin: 0;
 padding: 0em 11px;
 list-style-type: disc;
 }
 
-#contact-links ul li { display: inline; }
+#contact-links ul li { 
+  font-size: 1.45em;  
+  display: inline; 
+}
