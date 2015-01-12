@@ -571,11 +571,11 @@ dd p:first-child {
 #contact-links ul
 {
 margin: 0;
-padding: 0em 11px;
 list-style-type: disc;
 }
 
-#contact-links ul li { 
+#contact-links ul li a { 
   font-size: 1.45em;  
+  padding: 0em 11px;
   display: inline; 
 }
