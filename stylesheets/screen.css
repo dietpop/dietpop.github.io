@@ -412,7 +412,7 @@ ul {
 
 ul li {
   padding-left: 10px;
-  background: transparent url(../images/chevron.png) left 6px no-repeat;
+  #background: transparent url(../images/chevron.png) left 6px no-repeat;
 }
 
 blockquote {
@@ -579,3 +579,4 @@ list-style-type: disc;
   padding: 0em 11px;
   display: inline; 
 }
+
