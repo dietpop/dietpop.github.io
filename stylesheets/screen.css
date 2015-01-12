@@ -568,9 +568,9 @@ dd p:first-child {
   font-style: italic;
 }
 
-#contact-links ul
+#contact-links li
 {
-margin: 0em, 50em;
+margin: 0em, 5em;
 padding: 0;
 list-style-type: none;
 }
