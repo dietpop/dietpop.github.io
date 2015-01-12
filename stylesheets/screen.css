@@ -572,10 +572,9 @@ dd p:first-child {
 {
 margin: 0;
 list-style-type: disc;
-display: inline;
 }
 
-#contact-links ul li a { 
+#contact-links ul li { 
   font-size: 1.45em;  
   padding: 0em 11px;
   display: inline; 
