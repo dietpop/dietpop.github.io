@@ -572,6 +572,7 @@ dd p:first-child {
 {
 margin: 0;
 list-style-type: disc;
+display: inline;
 }
 
 #contact-links ul li a { 
